@@ -1,5 +1,8 @@
 # Generation results
 results/
+generated_images_uncond/
+generated_images_cond_5_classes/
+generated_images_cond_2_classes/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
